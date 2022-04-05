@@ -1,4 +1,4 @@
-# cub3d
+# cub3D
 
 My first RayCaster with miniLibX
 
@@ -23,5 +23,5 @@ $ ./cub3D <map_path/file.cub>
 ```
 
 #### Example using one of my childwood's beloved map's (CS 1.6 de_dust2) textures and colors.
-run ./cub3D maps/de_dust2.cub on the terminal after the previous instructions
+run "./cub3D maps/de_dust2.cub" on the terminal after the previous instructions
 ![de_dust_cub3d](https://user-images.githubusercontent.com/75038840/161865328-6a941ea1-cbd0-4d46-be0b-f283f72bcbe7.png)
