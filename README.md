@@ -16,8 +16,8 @@ The graphics were made using Minilibx library, and the renderization was made us
 #### Build Instructions
 
 ```bash
-$ git clone https://github.com/coderMeira/cub3d/
-$ cd cub3d
+$ git clone https://github.com/coderMeira/cub3D/
+$ cd cub3D
 $ make
-$ ./cub3d <map_path/file.cub>
+$ ./cub3D <map_path/file.cub>
 ```
