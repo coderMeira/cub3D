@@ -7,7 +7,7 @@ The goal is to take a 2d map and convert it into a 3d game in which you can walk
 The graphics were made using Minilibx library, and the renderization was made using a [ray-casting](https://lodev.org/cgtutor/raycasting.html) technique which uses the [DDA](https://en.wikipedia.org/wiki/Digital_differential_analyzer_(graphics_algorithm)) algorithm.
 
 ## Usage
-(This software is only available in Linux and macOS atm)
+(This software is only available for Linux and macOS atm)
 
 #### To compile on linux/mac
 * You should install first `MinilibX` on your machine
